@@ -2,7 +2,7 @@ import numpy as np
 from scipy.optimize import minimize
 
 def f1(x):
-    return x[0]**2 + x[1]**2
+    return ваша функция 
 
 x0=[5, -3]
 
