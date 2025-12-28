@@ -1,8 +1,8 @@
 def f4(x):
     return ваша функция
-  
-x0=[4, 3]
+
+x0=[2, -2]
 
 res = minimize()
 
-#print("f(x*):", res.fun)
+# print("f(x*):", res.fun)
