@@ -33,7 +33,7 @@ def LinearCG(A, b, x0, tol=1e-5):
 
 # Problem 1
 
-# A is a 2 × 2 symmetric positive-definite matrix and b is a 2 × 1 vector. Both are generated randomly using make_spd_matrix function from scikit-learn
+# A is a 2 × 2 symmetric positive-definite matrix and b is a 2 × 1 vector.
 
 
 A= [[ 2.54086605,-0.01128187], [-0.01128187, 0.52868286]] 
