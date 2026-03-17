@@ -1,4 +1,4 @@
-# stepik: https://stepik.org/a/260000
+#### https://SenatorovAI.com
 
 
 # Conjugate Gradient & Sparse CG Solver Course
